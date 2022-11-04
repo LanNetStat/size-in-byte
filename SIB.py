@@ -1,3 +1,4 @@
+#Probably this is a useless script
 import os
 print("Size In Byte. By LanNetStat")
 print("Probably this is a useless script")
